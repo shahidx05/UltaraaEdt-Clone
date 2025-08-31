@@ -32,4 +32,4 @@ A simple **UltaraaEdt landing page clone** built using **HTML** and **CSS**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahidx05/Neflix-Clone.git
+   git clone https://github.com/shahidx05/UltaraaEdt-Clone
