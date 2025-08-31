@@ -1,17 +1,22 @@
-# UltraEdit Clone (HTML & CSS)
+# UltaraaEdt-ui Clone (HTML & CSS)
 
-A simple **UltraEdit landing page clone** built using **HTML** and **CSS**.  
+A simple **UltaraaEdt landing page clone** built using **HTML** and **CSS**.  
 ⚠️ This project is **for learning purposes only** – not affiliated with UltraEdit.
 
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Project](https://shahidx05.github.io/UltaraaEdt-Clone/)
+🔗 [View Project](https://ultaraa-edt-ui-clone.vercel.app/)
+
+---
+
+## 📸 Preview  
+![Netflix Clone Screenshot](images/demo.png)
 
 ---
 
 ## ✨ Features  
-- Navigation bar similar to UltraEdit  
+- Navigation bar similar to Ultaraa-Edt  
 - Hero section with title & description  
 - Language selection section  
 - Download buttons with hover effects  
@@ -22,3 +27,9 @@ A simple **UltraEdit landing page clone** built using **HTML** and **CSS**.
 ## 🛠️ Tech Stack  
 - **HTML5**  
 - **CSS3** (Flexbox & Grid)
+
+## 📂 How to Run  
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shahidx05/Neflix-Clone.git
