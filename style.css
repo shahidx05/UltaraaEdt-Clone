@@ -170,7 +170,7 @@ li svg {
 }
 
 .grid {
-    margin: 0px auto;
+    margin: 40px auto;
     max-width: 1000px;
     padding: 0px 20px;
 }
@@ -221,6 +221,10 @@ li svg {
     padding: 8px 16px;
     font-weight: 600;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        transition: all 0.3s;
+}
+.rows button:hover {
+    background-color: #54aa54;
 }
 
 .rows div>div {
